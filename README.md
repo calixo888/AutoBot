@@ -1,5 +1,6 @@
 # AutoBot v1.0
-AutoBot v1.0 is out!
+Fixed some bugs, actions are now written in a python file, so record your actions, and run the python file written after program is done running. Remember, the program is stopped by a keyboard interrupt, so if you're running it from the terminal, just CTRL-C out of the program, and the python file will be written and saved as autobot-output.py in the same directory. The timing between actions is a bit off, I may update and send out another release in the near future.
+View it here: https://github.com/calixo888/AutoBot/releases
 
 # AutoBot
 AutoBot is a type of automation bot. These types of bots can be used to copy your actions, keypresses, mouse clicks, and movements on your computer and is stored in a program, ready to be used. If you have a lot of files to delete, or just a mindless task that is really tedious, you can run this program, do it once, and run the generated program on a loop. 
