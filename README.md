@@ -1,3 +1,6 @@
+# AutoBot v1.0
+AutoBot v1.0 is out!
+
 # AutoBot
 AutoBot is a type of automation bot. These types of bots can be used to copy your actions, keypresses, mouse clicks, and movements on your computer and is stored in a program, ready to be used. If you have a lot of files to delete, or just a mindless task that is really tedious, you can run this program, do it once, and run the generated program on a loop. 
 NOTE: 
